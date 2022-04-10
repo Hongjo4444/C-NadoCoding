@@ -10,6 +10,7 @@ void decreaseWater(long elapsedTime);
 int checkFishAlive();
 
 #include <stdio.h>
+#include <stdlib.h> //exit(0); 쓰려면 필요함
 #include <time.h>
 int main(void)
 {
